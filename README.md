@@ -1,2 +1,2 @@
-# MicroPython-exemples
-Exemples from my videos
+# MicroPython exemples
+All the exemples from my videos (MPU6050 video → ???)
